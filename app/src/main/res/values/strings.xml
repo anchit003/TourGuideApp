@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">udaTOUR</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="boom">BOOM BOX</string>
+    <string name="veda">The Vedas</string>
+    <string name="purple">Purple Frog</string>
+    <string name="rock">Rock Garden</string>
+    <string name="rose">Rose Garden</string>
+    <string name="sukhna">Sukhna Lake</string>
+    <string name="taj">The Taj</string>
+    <string name="hyatt">Hyatt</string>
+    <string name="bella">Bella Vista</string>
+    <string name="jw">J.W Mariott</string>
+    <string name="bbq">Barbeque</string>
+    <string name="bre">Brew Estate</string>
+    <string name="ghazal">Ghazal</string>
+    <string name="food">Food</string>
+    <string name="garden">Garden</string>
+    <string name="hotels">Hotels</string>
+    <string name="cafe">Caffes</string>
+
+</resources>
